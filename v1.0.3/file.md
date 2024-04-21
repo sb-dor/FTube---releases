@@ -1,0 +1,1 @@
+https://github.com/sb-dor/FTube---releases/releases/download/v1.0.3/app-release.apk
